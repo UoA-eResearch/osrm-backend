@@ -93,6 +93,8 @@ function setup()
         platform        = walking_speed,
         footway         = walking_speed,
         pier            = walking_speed,
+        trunk           = walking_speed,
+        trunk_link      = walking_speed
       },
 
       railway = {
